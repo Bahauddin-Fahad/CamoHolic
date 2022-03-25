@@ -12,7 +12,7 @@ const Shop = () => {
   }, []);
   return (
     <div className="shop-container">
-      <div className="camera">
+      <div className="cameras-container">
         {cameras.map((camera) => (
           <Camera key={camera.id} camera={camera}></Camera>
         ))}

@@ -1,0 +1,25 @@
+.camera {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  /* height: 500px; */
+  padding: 10px;
+  margin: 10px 0px 10px 10px;
+  /* width: 300px; */
+}
+.camera img {
+  height: 250px;
+  width: 250px;
+}
+.camera-info {
+  margin: 20px;
+}
+.cart-button {
+  width: 100%;
+  background-color: cadetblue;
+  color: white;
+  font-weight: 700;
+}

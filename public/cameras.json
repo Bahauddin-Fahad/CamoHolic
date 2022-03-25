@@ -2,73 +2,85 @@
   {
     "id": "1",
     "name": "Canon Digital Rebel XT (350D)",
+    "brand": "Canon",
     "price": "$284.21",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/512YXSJWB5L._AC_.jpg"
   },
   {
     "id": "2",
     "name": "Canon Digital Rebel XTi (400D)",
+    "brand": "Canon",
     "price": "$198.31",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/41KKbxtpmfL._AC_.jpg"
   },
   {
     "id": "3",
     "name": "Nikon D80",
+    "brand": "Nikon",
     "price": "$259.36",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/71-nCkCEW8S._AC_SL1500_.jpg"
   },
   {
     "id": "4",
     "name": "Nikon D50",
+    "brand": "Nikon",
     "price": "$226.11",
-    "img": "http://placehold.it/32x32"
+    "img": "https://cdn-4.nikon-cdn.com/e/Q5NM96RZZo-YRYNeYvAi9beHK4x3L-8mX69Pa_6js6tzXu3dr9578qdKPb0DhCtG/Views/25216_D50_front.png"
   },
   {
     "id": "5",
     "name": "Nikon D40",
+    "brand": "Nikon",
     "price": "$289.60",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/71L5h0c0WxL._AC_SL1421_.jpg"
   },
   {
     "id": "6",
     "name": "Nikon D200",
+    "brand": "Nikon",
     "price": "$332.12",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/41DPSZZTKDL._AC_.jpg"
   },
   {
     "id": "7",
     "name": "Sony Alpha A100",
+    "brand": "Sony",
     "price": "$291.43",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/81CJOabsjCS._AC_SL1500_.jpg"
   },
   {
     "id": "8",
     "name": "Canon EOS 20D",
+    "brand": "Canon",
     "price": "$313.61",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/41bhEjtW9LL._AC_.jpg"
   },
   {
     "id": "9",
     "name": "Nikon D70S",
+    "brand": "Nikon",
     "price": "$105.31",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/51ZF2R22J9L._AC_.jpg"
   },
   {
     "id": "10",
     "name": "Canon EOS 30D",
+    "brand": "Nikon",
     "price": "$173.47",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/51XB3ENXDDL._AC_.jpg"
   },
   {
     "id": "11",
     "name": "Olympus Evolt E500",
+    "brand": "Olympus",
     "price": "$297.13",
-    "img": "http://placehold.it/32x32"
+    "img": "https://m.media-amazon.com/images/I/51XDAETQZSL._AC_.jpg"
   },
   {
     "id": "12",
     "name": "Canon EOS 5D",
+    "brand": "Canon",
     "price": "$169.74",
-    "img": "http://placehold.it/32x32"
+    "img": "https://www.bhphotovideo.com/images/images2000x2000/canon_eos_5d_mark_iv_1274706.jpg"
   }
 ]
