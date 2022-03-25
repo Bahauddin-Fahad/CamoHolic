@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Canon Digital Rebel XT (350D)",
+    "price": "$284.21",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "2",
+    "name": "Canon Digital Rebel XTi (400D)",
+    "price": "$198.31",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "3",
+    "name": "Nikon D80",
+    "price": "$259.36",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "4",
+    "name": "Nikon D50",
+    "price": "$226.11",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "5",
+    "name": "Nikon D40",
+    "price": "$289.60",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "6",
+    "name": "Nikon D200",
+    "price": "$332.12",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "7",
+    "name": "Sony Alpha A100",
+    "price": "$291.43",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "8",
+    "name": "Canon EOS 20D",
+    "price": "$313.61",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "9",
+    "name": "Nikon D70S",
+    "price": "$105.31",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "10",
+    "name": "Canon EOS 30D",
+    "price": "$173.47",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "11",
+    "name": "Olympus Evolt E500",
+    "price": "$297.13",
+    "img": "http://placehold.it/32x32"
+  },
+  {
+    "id": "12",
+    "name": "Canon EOS 5D",
+    "price": "$169.74",
+    "img": "http://placehold.it/32x32"
+  }
+]
