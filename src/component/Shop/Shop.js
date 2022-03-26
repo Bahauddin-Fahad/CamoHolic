@@ -79,10 +79,7 @@ const Shop = () => {
           <div id="chosen-camera">
             <img src={chosenCart.img} alt="" />
             <h6>{chosenCart.name}</h6>
-            <button
-              className="remove-button"
-              onClick={() => removeItem(chosenCart.id)}
-            >
+            <button className="remove-button">
               <FontAwesomeIcon icon={faTrash}></FontAwesomeIcon>
             </button>
           </div>
