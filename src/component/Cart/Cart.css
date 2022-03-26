@@ -1,6 +1,4 @@
 .cart {
-  position: sticky;
-  top: 0;
   padding: 10px 0;
   display: flex;
   justify-content: center;
@@ -14,6 +12,7 @@
   border-radius: 5px;
   padding: 5px;
   width: 90%;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 2px 20px, rgba(0, 0, 0, 0.23) 0px 4px 6px;
 }
 .camera-details h6 {
   margin-bottom: 0;
@@ -25,4 +24,7 @@
 .remove-button {
   background-color: white;
   border: none;
+}
+.remove-button:hover {
+  font-size: 1.1rem;
 }

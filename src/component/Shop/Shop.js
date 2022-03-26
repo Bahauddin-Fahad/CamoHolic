@@ -30,7 +30,7 @@ const Shop = () => {
         ))}
       </div>
       <div className="cart-container">
-        <h4>Order Summary</h4>
+        <h3>Order Summary</h3>
         {cart.map((camera) => (
           <Cart key={camera.id} camera={camera}></Cart>
         ))}

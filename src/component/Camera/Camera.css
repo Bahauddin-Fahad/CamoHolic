@@ -7,10 +7,11 @@
   border-radius: 10px;
   padding: 10px;
   margin: 10px 0px 10px 10px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 .camera img {
-  height: 250px;
-  width: 250px;
+  width: 65%;
+  padding-top: 20px;
 }
 .camera-info {
   margin: 20px;
