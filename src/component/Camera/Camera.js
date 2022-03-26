@@ -3,7 +3,6 @@ import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 import React from "react";
 import "./Camera.css";
 const Camera = ({ camera, handleAddToCart }) => {
-  // console.log(camera);
   const { img, name, brand, price } = camera;
   return (
     <div className="camera">
