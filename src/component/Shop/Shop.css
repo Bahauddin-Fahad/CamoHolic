@@ -7,18 +7,20 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 40px;
-  margin: 30px 50px;
+  margin: 0px 50px 30px 30px;
 }
 .cart-container {
   position: sticky;
   top: 100px;
   right: 0;
-  height: 500px;
+  height: 520px;
   background-color: cadetblue;
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 5px;
   padding: 20px 00px;
   margin-right: 20px;
   margin-bottom: 40px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
 .cart-container h3 {
   margin: 10px;
@@ -67,27 +69,27 @@
 }
 #choose-button:hover {
   color: white;
-  background-color: #008000bc;
-  border: 2px solid white;
+  background-color: #1e7e1e5d;
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 5px;
 }
 #choose-again-button {
   width: 150px;
   font-weight: 600;
-  color: #ff0000ad;
+  color: #ff0000;
   background-color: white;
-  border: 2px solid #ff0000ad;
+  border: 2px solid #ff0000;
   border-radius: 5px;
   padding: 5px;
 }
 #choose-again-button:hover {
   color: white;
-  background-color: #f83d3d;
-  border: 2px solid white;
+  background-color: #ff0000ad;
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 5px;
 }
 
-@media screen and (min-width: 577px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .cameras-container {
     grid-template-columns: repeat(2, 1fr);
   }

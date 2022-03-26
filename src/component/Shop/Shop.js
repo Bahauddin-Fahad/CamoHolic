@@ -74,22 +74,24 @@ const Shop = () => {
         {cart.map((camera) => (
           <Cart key={camera.id} camera={camera} removeItem={removeItem}></Cart>
         ))}
-        <div id="chosen-section">
-          <h5>Randomly Chosen</h5>
-          <div id="chosen-camera">
-            <img src={chosenCart.img} alt="" />
-            <h6>{chosenCart.name}</h6>
-            <button className="remove-button">
-              <FontAwesomeIcon icon={faTrash}></FontAwesomeIcon>
-            </button>
+        {chosenCart && (
+          <div id="chosen-section">
+            <h5>Randomly Chosen</h5>
+            <div id="chosen-camera">
+              <img src={chosenCart.img} alt="" />
+              <h6>{chosenCart.name}</h6>
+              <button className="remove-button ">
+                <FontAwesomeIcon icon={faTrash}></FontAwesomeIcon>
+              </button>
+            </div>
           </div>
-        </div>
+        )}
         <div className="buttons">
           <button id="choose-button" onClick={randomItem}>
-            Choose 1 For Me
+            Random Choose
           </button>
           <button id="choose-again-button" onClick={emptyCart}>
-            Choose Again
+            Clear Cart
           </button>
         </div>
       </div>
