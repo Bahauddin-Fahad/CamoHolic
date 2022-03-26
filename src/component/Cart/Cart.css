@@ -1,0 +1,28 @@
+.cart {
+  position: sticky;
+  top: 0;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+}
+.camera-details {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  width: 90%;
+}
+.camera-details h6 {
+  margin-bottom: 0;
+}
+.camera-details img {
+  height: 30px;
+  width: 30px;
+}
+.remove-button {
+  background-color: white;
+  border: none;
+}
