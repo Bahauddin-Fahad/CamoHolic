@@ -4,9 +4,9 @@ import "./QandA.css";
 const QandA = () => {
   return (
     <div>
-      <div className="qna-section container row mx-auto">
+      <div className="qna-section container row g-4 mx-auto">
         <h1>QnA Section</h1>
-        <div className="col-5">
+        <div className="col-lg-5 col-md-12">
           <Accordion>
             <Accordion.Item eventKey="0">
               <Accordion.Header>How React Works?</Accordion.Header>
@@ -60,7 +60,7 @@ const QandA = () => {
             </Accordion.Item>
           </Accordion>
         </div>
-        <div className="col-5">
+        <div className="col-lg-5 col-md-12">
           <img
             className="img-fluid"
             src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
