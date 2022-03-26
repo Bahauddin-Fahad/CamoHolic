@@ -1,3 +1,3 @@
-## My Live Website Link
+## [https://bahauddin-fahad-camoholic.netlify.app] (My Live Website Link)
 
-Open [https://bahauddin-fahad-camoholic.netlify.app/](https://bahauddin-fahad-camoholic.netlify.app/) to view it in your browser.
+[https://bahauddin-fahad-camoholic.netlify.app](My Live Website Link).
