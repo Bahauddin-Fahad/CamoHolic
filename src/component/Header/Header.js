@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header-section">
       <h1>
-        <FontAwesomeIcon icon={faCamera}></FontAwesomeIcon> Camera World
+        <FontAwesomeIcon icon={faCamera}></FontAwesomeIcon> CamoHolic
       </h1>
     </div>
   );

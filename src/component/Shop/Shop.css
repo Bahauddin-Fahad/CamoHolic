@@ -1,6 +1,7 @@
 .shop-container {
   display: grid;
   grid-template-columns: 3.5fr 1fr;
+  margin-top: 150px;
 }
 .cameras-container {
   display: grid;
@@ -10,13 +11,48 @@
 }
 .cart-container {
   position: sticky;
-  top: 0;
+  top: 100px;
+  right: 0;
+  height: 500px;
+  width: 300px;
   background-color: cadetblue;
   border-radius: 5px;
-  padding: 30px 20px;
+  padding: 20px 00px;
+  margin-right: 20px;
+  margin-bottom: 40px;
 }
 .cart-container h3 {
+  margin: 10px;
   color: white;
+}
+#chosen-section {
+  display: none;
+}
+#chosen-section h5 {
+  margin: 30px 0 10px 0;
+  color: white;
+
+  /* text-align: center; */
+  /* justify-content: center; */
+}
+#chosen-camera {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px;
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 2px 20px, rgba(0, 0, 0, 0.23) 0px 4px 6px;
+}
+#chosen-camera h6 {
+  margin-bottom: 0;
+}
+#chosen-camera img {
+  height: 30px;
+  width: 30px;
 }
 .buttons {
   display: flex;
